@@ -1159,5 +1159,3 @@ function showMiniList(data){
         return ResponseEntity.ok(dDay);
     }
 ```
-
-
